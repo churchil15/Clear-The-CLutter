@@ -7,4 +7,4 @@ access the path of the files and folders and can manipulate them using the repla
 Note: **We can add more extensions to our list according to our needs**
 
 # Usage
-Just add this script into your folder where you want to clear the cluttered files and sort them. Run this file by double clicking on it and you will see that each and every file present in the folder is being removed and has added in their respective folders according to their extensions. Four folders will be created, i.e Images, Docs, Medias and Others.
+Just add this script into your folder where you want to clear the cluttered files and sort them. Run this file and you will see that each and every file present in the folder is being removed and has added in their respective folders according to their extensions. Four folders will be created, i.e Images, Docs, Medias and Others.
