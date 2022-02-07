@@ -19,6 +19,7 @@ if __name__ == '__main__':
     CreateIfNotExist("Medias")
     CreateIfNotExist("Others")
 
+    # You can add more extensions of your choice
     imgExts = [".png", ".jpg", ".jpeg"]
     images = [file for file in files if os.path.splitext(file)[1].lower() in imgExts]
 
